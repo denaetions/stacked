@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T04:35:51.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="W7NIlFbbRi5ipasXo297" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T05:07:45.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="4O-ue7kogWRNkJ8Wf-VF" version="13.10.4" type="github">
   <diagram id="42WWrblyjfMENvQk-2MK" name="Page-1">
-    <mxGraphModel dx="1123" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,6 +119,18 @@
         </mxCell>
         <mxCell id="878t6Z_7mpMtQr6r-hFt-46" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1320" y="744" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="878t6Z_7mpMtQr6r-hFt-47" value="System will repeat step&amp;nbsp;&lt;br&gt;for max 3 times before&amp;nbsp;&lt;br&gt;offering the user help" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="657.5" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="878t6Z_7mpMtQr6r-hFt-48" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="656.88" y="675.63" width="66.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="878t6Z_7mpMtQr6r-hFt-49" value="User can control how they&lt;br&gt;receive recipe. The default&lt;br&gt;list is sent via phone #" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="247" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="878t6Z_7mpMtQr6r-hFt-50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1086.88" y="263.13" width="66.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
